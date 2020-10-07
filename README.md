@@ -1,2 +1,2 @@
 # 1reposit
-En esta practica aprenderemos a realizar mi primer repositorio.
+En esta practica aprenderemos a realizar mi primer repositorio.(primera modificacion)
